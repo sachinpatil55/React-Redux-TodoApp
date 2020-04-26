@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "text": "todo1",
+      "completed": true,
+      "bucketId": 1,
+      "id": 1
+    },
+    {
+      "text": "todo2",
+      "completed": false,
+      "bucketId": 2,
+      "id": 2
+    }
+  ],
+  "buckets": [
+    {
+      "text": "bucket1",
+      "todosList": [],
+      "id": 1
+    },
+    {
+      "text": "bucket2",
+      "todosList": [],
+      "id": 2
+    }
+  ]
+}
