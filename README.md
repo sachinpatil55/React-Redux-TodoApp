@@ -3,6 +3,12 @@ App Created by using React , Redux , Thunk, Bootstrap , Json Server
 
 # TODO APP
 
+<img src="./images/1.png" width="80%" />
+
+<img src="./images/2.png" width="80%" />
+
+<img src="./images/3.png" width="80%" />
+
 Start application
 
 1. npm install
